@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <g class="layer">
+  <polygon fill="#FF0000" points="0 0, 0 100, 100 100, 100 0"   stroke="#000000" stroke-width="5" strokeWidth="5"/>  
+  <polygon fill="#66ff00" points="100 0, 100 100, 200 100, 200 0"   stroke="#000000" stroke-width="5" strokeWidth="5"/>
+  <polygon fill="#4cb9fa" points="0 100, 0 200, 100 200, 100 100"   stroke="#000000" stroke-width="5" strokeWidth="5"/> 
+  <polygon fill="#fce903" points="100 100, 100 200, 200 200, 200 100"   stroke="#000000" stroke-width="5" strokeWidth="5"/> 
+ </g>
+</svg>
